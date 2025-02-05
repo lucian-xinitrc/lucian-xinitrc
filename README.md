@@ -1,16 +1,30 @@
-## Hi there 👋
+```
+$ neofetch
+                                           > lucian-xinitrc_______________________________
+                                           Operating.System:            Arch Linux, Kali Linux
 
-<!--
-**lucian-xinitrc/lucian-xinitrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                   ▄                       > Languages____________________________________
+                  ▟█▙                      Languages.Functional:        Haskell, Rust, R
+                 ▟███▙                     Languages.Web&Scripting:     PHP, Python, Jython, 
+                ▟█████▙                                                 JavaScript, Bash, Perl
+               ▟███████▙                   Languages.Low-Level:         Rust, C
+              ▂▔▀▜██████▙                  Languages.Database:          SQL, MySQL
+             ▟██▅▂▝▜█████▙                 Languages.Object-Oriented:   Java, Rust, C++, C#
+            ▟█████████████▙
+           ▟███████████████▙               Languages.Real:              British, Romanian
+          ▟█████████████████▙
+         ▟███████████████████▙             > Frameworks___________________________________
+        ▟█████████▛▀▀▜████████▙            Frontend.Libraries:          NEXT.js, Angular.js, Vue.js
+       ▟████████▛      ▜███████▙           Functional.Libraries:        Reflex, Ruby on Rails
+      ▟█████████        ████████▙
+     ▟██████████        █████▆▅▄▃▂         > Hobbies______________________________________
+    ▟██████████▛        ▜█████████▙        Hobbies.Software:            Linux Server Admin,
+   ▟██████▀▀▀              ▀▀██████▙                                    Discord bots with AI,
+  ▟███▀▘                       ▝▀███▙                                   Pentesting
+ ▟▛▀                               ▀▜▙     Hobbies.Hardware:            Raspberry Pi Web Control,
+                                                                        Mecatronics, OS Design
+                                                                        Kernel Development
+                                           Hobbies.Real:                Motorcycling, Teaching C++,
+                                                                        Bodybuilding,
+                                                                        Spending quality time with my GF                                               
+```
