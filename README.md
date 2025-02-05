@@ -1,4 +1,3 @@
-```
 $ neofetch
                                            > lucian-xinitrc_______________________________
                                            Operating.System:            Arch Linux, Kali Linux
@@ -27,4 +26,4 @@ $ neofetch
                                            Hobbies.Real:                Motorcycling, Teaching C++,
                                                                         Bodybuilding,
                                                                         Spending quality time with my GF                                               
-```
+
