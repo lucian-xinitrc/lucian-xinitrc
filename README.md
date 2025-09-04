@@ -9,7 +9,7 @@ $neofetch
                                      Languages.Web&Scripting:     PHP, Python, Jython,    
                                                                   JavaScript, Bash, Perl     
              ++                      Languages.Low-Level:         Rust, C                 
-            ++*+                     Languages.Database:          SQL, MySQL               
+            ++*+                     Languages.Database:          SQL, MySQL, PostgreSQL               
            *+++++                    Languages.Object-Oriented:   Java, Rust, C++, C#       
            +++++++*                          
           ++++++++                   Languages.Real:              British, Romanian                                                     
